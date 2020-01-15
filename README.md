@@ -1,7 +1,17 @@
 # Time Machine
 
 #### Deployed link:
-https://carmel-m.github.io/time-machine/
+https://ksentak.github.io/time-machine/
+---
+
+![LandingPage](./assets/images/app-screenshots/TimeMachineLanding.png)
+
+---
+
+![Results](./assets/images/app-screenshots/TimeMachineResults.png)
+
+
+---
 
 #### App description:
 The Time Machine app provides users with an easy, fun way to learn about history.  The user enters a year into the search box, and a historical snapshot from that time will be generated.  The data returned by the app includes top movies, TV shows and news headlines from the search year, as well as a Gif related to the time period.
